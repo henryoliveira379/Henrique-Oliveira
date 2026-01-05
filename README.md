@@ -18,13 +18,6 @@ Entusiasta de Ciência da Computação com base sólida pela **HarvardX (CS50)**
 
 ---
 
-### 📈 GitHub Stats
-
-![Henrique's GitHub stats](https://github-readme-stats.vercel.app/api?username=henryoliveira379&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henryoliveira379&layout=compact&theme=radical)
-
----
-
 ### 📫 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/euhenriqueoliveira-739b6a23b/)
